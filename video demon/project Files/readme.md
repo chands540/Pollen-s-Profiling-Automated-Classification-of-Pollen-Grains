@@ -10,7 +10,7 @@ import tensorflow as tf
 import cv2
 
 #give the path of your dataset file that you downloaded
-path =  'C:/Users/Akshay V/Downloads/archive1'
+path =  'C:/Users/Chandu/Downloads/archive1'
 names = [name.replace(' ', '_').split('_')[0] for name in os.listdir(path)] #list of all first names from list of all files
 classes = Counter(names)  #returns dictionary with key as name, count as value
 
