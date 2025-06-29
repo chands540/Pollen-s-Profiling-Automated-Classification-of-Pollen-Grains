@@ -27,3 +27,18 @@
     <a href="/">Return to Home</a>
 </body>
 </html>
+
+
+prediction.html
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Prediction Result</title>
+</head>
+<body>
+    <h1>Prediction Result</h1>
+    <p>Predicted Pollen Class: {{ prediction }}</p>
+    <a href="/">Upload Another</a>
+</body>
+</html>
