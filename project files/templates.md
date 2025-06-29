@@ -14,3 +14,16 @@
     <a href="/logout">Logout</a>
 </body>
 </html>
+
+#loguot.html
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Logout</title>
+</head>
+<body>
+    <h1>You have been logged out</h1>
+    <a href="/">Return to Home</a>
+</body>
+</html>
