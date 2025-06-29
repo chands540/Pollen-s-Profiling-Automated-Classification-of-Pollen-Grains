@@ -12,9 +12,9 @@ To build a deep learning system using **CNN (Convolutional Neural Networks)** th
 
 ##  Key Features:
 
-* ✅ Built with **Python**, **TensorFlow/Keras**, and deployed via a **Flask web app**.
-* ✅ Users can upload pollen grain images and get instant predictions in the browser.
-* ✅ Uses a CNN model trained on categorized image data and saved as `model.h5` or `cnn.hdf5`.
+*  Built with **Python**, **TensorFlow/Keras**, and deployed via a **Flask web app**.
+*  Users can upload pollen grain images and get instant predictions in the browser.
+*  Uses a CNN model trained on categorized image data and saved as `model.h5` or `cnn.hdf5`.
 
 ---
 
